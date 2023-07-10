@@ -1,0 +1,8 @@
+<meta>
+  <script src="c.lua" type="client" cache="false"/>
+  <script src="s.lua" type="server"/>
+  
+  <file src="fonts/Manrope-Light.ttf"/>
+  <file src="fonts/Manrope-Medium.ttf"/>
+  <file src="fonts/Manrope-Regular.ttf"/>
+</meta>
